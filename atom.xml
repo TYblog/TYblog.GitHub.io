@@ -77,13 +77,13 @@
     
     <category term="视频" scheme="https://mpsblog.shop/tags/%E8%A7%86%E9%A2%91/"/>
     
-    <category term="豆瓣" scheme="https://mpsblog.shop/tags/%E8%B1%86%E7%93%A3/"/>
-    
     <category term="电影" scheme="https://mpsblog.shop/tags/%E7%94%B5%E5%BD%B1/"/>
     
     <category term="在线" scheme="https://mpsblog.shop/tags/%E5%9C%A8%E7%BA%BF/"/>
     
     <category term="离线" scheme="https://mpsblog.shop/tags/%E7%A6%BB%E7%BA%BF/"/>
+    
+    <category term="豆瓣" scheme="https://mpsblog.shop/tags/%E8%B1%86%E7%93%A3/"/>
     
   </entry>
   
@@ -216,9 +216,9 @@
     
     <category term="视频" scheme="https://mpsblog.shop/tags/%E8%A7%86%E9%A2%91/"/>
     
-    <category term="豆瓣" scheme="https://mpsblog.shop/tags/%E8%B1%86%E7%93%A3/"/>
-    
     <category term="电影" scheme="https://mpsblog.shop/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="豆瓣" scheme="https://mpsblog.shop/tags/%E8%B1%86%E7%93%A3/"/>
     
     <category term="TOP 250" scheme="https://mpsblog.shop/tags/TOP-250/"/>
     
