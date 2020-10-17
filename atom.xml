@@ -181,17 +181,17 @@
     <category term="生活札记" scheme="https://mpsblog.shop/categories/%E7%94%9F%E6%B4%BB%E6%9C%AD%E8%AE%B0/"/>
     
     
+    <category term="总结" scheme="https://mpsblog.shop/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="笔记" scheme="https://mpsblog.shop/tags/%E7%AC%94%E8%AE%B0/"/>
+    
     <category term="新年" scheme="https://mpsblog.shop/tags/%E6%96%B0%E5%B9%B4/"/>
     
     <category term="留言" scheme="https://mpsblog.shop/tags/%E7%95%99%E8%A8%80/"/>
     
-    <category term="笔记" scheme="https://mpsblog.shop/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="2020" scheme="https://mpsblog.shop/tags/2020/"/>
     
     <category term="伊始" scheme="https://mpsblog.shop/tags/%E4%BC%8A%E5%A7%8B/"/>
-    
-    <category term="总结" scheme="https://mpsblog.shop/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -241,9 +241,9 @@
     <category term="生活札记" scheme="https://mpsblog.shop/categories/%E7%94%9F%E6%B4%BB%E6%9C%AD%E8%AE%B0/"/>
     
     
-    <category term="笔记" scheme="https://mpsblog.shop/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="总结" scheme="https://mpsblog.shop/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="笔记" scheme="https://mpsblog.shop/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="落幕" scheme="https://mpsblog.shop/tags/%E8%90%BD%E5%B9%95/"/>
     
