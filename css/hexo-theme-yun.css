@@ -42,7 +42,7 @@
 }
 body {
   font-family: ZCOOL KuaiLe, 'Microsoft YaHei', Roboto, Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 200;
   margin: 0;
   padding: 0;
   line-height: 2;
@@ -73,23 +73,23 @@ h6 {
 }
 h1 {
   font-size: 2.5rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 h2 {
   font-size: 2.2rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 h3 {
   font-size: 1.9rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 h5 {
   font-size: 1.3rem;
-  font-weight: 400;
+  font-weight: 200;
 }
 h6 {
   font-size: 1rem false;
@@ -213,9 +213,9 @@ input {
   bottom: 0;
 }
 .char {
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
   font-size: var(--banner-char-size, 1rem);
-  font-weight: 900;
+  font-weight: 800;
   background-color: rgba(255,255,255,0.5);
   line-height: 1;
   transition-property: all;
@@ -649,8 +649,8 @@ input {
   padding-left: 0.6rem;
 }
 .link-item .link-blog {
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-weight: 900;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
+  font-weight: 800;
   margin: 0.42rem 0;
 }
 .link-item .link-desc {
@@ -1350,8 +1350,8 @@ pre[class*='language-']:hover .copy-btn {
   margin: 0;
   padding: 10px;
   font-size: 1.5rem;
-  font-weight: 900;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: 800;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
 }
 .post-header .post-title .icon {
   width: 1.6rem;
@@ -1405,7 +1405,7 @@ pre[class*='language-']:hover .copy-btn {
 }
 .markdown-body {
   color: var(--hty-text-color) !important;
-  font-weight: 400;
+  font-weight: 200;
   font-family: ZCOOL KuaiLe, 'Microsoft YaHei', Roboto, Arial, sans-serif;
 }
 .markdown-body pre {
@@ -1629,7 +1629,7 @@ pre[class*='language-']:hover .copy-btn {
   line-height: 1.8;
   padding: 1rem;
   font-size: 1.1rem;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
 }
 .post-toc ol {
   list-style: none;
@@ -1822,8 +1822,8 @@ pre[class*='language-']:hover .copy-btn {
 }
 .site-name {
   color: var(--hty-text-color);
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-weight: 900;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
+  font-weight: 800;
 }
 .site-subtitle {
   color: #999;
@@ -1924,8 +1924,8 @@ pre[class*='language-']:hover .copy-btn {
   padding: 0.6rem 0;
 }
 #local-search-result ul.search-result-list li .search-result-title {
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-weight: 900;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
+  font-weight: 800;
   font-size: 1.2rem;
 }
 #local-search-result ul.search-result-list li .search-result {
@@ -1974,8 +1974,8 @@ pre[class*='language-']:hover .copy-btn {
   box-sizing: border-box;
   width: 90%;
   max-width: 800px;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-weight: 900;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
+  font-weight: 800;
   text-align: center;
 }
 .popup .search-icon,
@@ -2025,7 +2025,7 @@ pre[class*='language-']:hover .copy-btn {
   color: var(--hty-text-color);
   display: block;
   text-align: center;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
   font-weight: bold;
   padding: 0.5rem;
   border-top: 1px solid var(--hty-secondary-text-color);
@@ -2042,7 +2042,7 @@ pre[class*='language-']:hover .copy-btn {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
   font-weight: bold;
   padding: 1rem;
   margin: 1rem auto;
@@ -2300,8 +2300,8 @@ pre[class*='language-']:hover .copy-btn {
   box-sizing: border-box;
   width: 90%;
   max-width: 800px;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-weight: 900;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
+  font-weight: 800;
   text-align: center;
 }
 #decryptButton {
@@ -2358,7 +2358,7 @@ pre[class*='language-']:hover .copy-btn {
 }
 .girl-item .girl-from {
   font-size: 12px;
-  font-family: ZCOOL KuaiLe, 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-family: QIJIFALLBACK, 'Noto Serif SC', STZhongsong, STKaiti, ZCOOL XiaoWei, Roboto, serif;
   font-weight: bold;
   color: var(--hty-secondary-text-color);
 }
